@@ -10,6 +10,7 @@
     <VBFixedArray(55)> Dim address() As String
 End Structure
 
+
 Public Class Form1
 
     'Global Variables
