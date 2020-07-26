@@ -10,7 +10,6 @@
     <VBFixedArray(55)> Dim address() As String
 End Structure
 
-
 Public Class Form1
 
     'Global Variables
@@ -290,8 +289,6 @@ Public Class Form1
             ViewButtonsColors()
 
         Catch ex As Exception
-
-            MsgBox("No Trip Exist Under This Number", MsgBoxStyle.Critical)
 
         End Try
 
